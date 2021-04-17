@@ -12,6 +12,7 @@
   "dependencies": {
     "async": "^2.0.1",
     "doublearray": "0.0.2",
+    "path": "^0.12.7",
     "zlibjs": "^0.3.1"
   },
   "devDependencies": {
