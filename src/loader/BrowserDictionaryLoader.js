@@ -17,7 +17,7 @@
 
 "use strict";
 
-var zlib = require("zlibjs/bin/gunzip.min.js");
+// var zlib = require("zlibjs/bin/gunzip.min.js");
 var DictionaryLoader = require("./DictionaryLoader");
 
 /**
